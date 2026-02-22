@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Don't go（feat. ASH ISLAND）",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-22T16:30:49.240407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't go (feat. ASH ISLAND)",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/01_Don't_go_(feat._ASH_ISLAND)_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't go (Feat. ASH ISLAND)",
+      "artist": "챤미나 (CHANMINA)",
+      "has_synced": true,
+      "path": "select/02_Don't_go_(Feat._ASH_ISLAND)_챤미나_(CHANMINA).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't go (feat. ASH ISLAND)",
+      "artist": "CHANMINA",
+      "has_synced": false,
+      "path": "select/03_Don't_go_(feat._ASH_ISLAND)_CHANMINA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plz Don't Go (feat. Jhené Aiko)",
+      "artist": "Cashmere Cat",
+      "has_synced": true,
+      "path": "select/04_Plz_Don't_Go_(feat._Jhené_Aiko)_Cashmere_Cat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Milo Johnson)",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/05_Don't_Go_(feat._Milo_Johnson)_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snoopy Don’t Go (feat. October London)",
+      "artist": "Snoop Dogg, October London",
+      "has_synced": true,
+      "path": "select/06_Snoopy_Don’t_Go_(feat._October_London)_Snoop_Dogg,_October_London.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Lights)",
+      "artist": "Bring Me The Horizon feat. Lights",
+      "has_synced": true,
+      "path": "select/07_Don't_Go_(feat._Lights)_Bring_Me_The_Horizon_feat._Lights.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snoopy Don’t Go (feat. October London)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/08_Snoopy_Don’t_Go_(feat._October_London)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Go (feat Big Bub & Faith Evans)",
+      "artist": "Mary J Blige",
+      "has_synced": true,
+      "path": "select/09_Don't_Go_(feat_Big_Bub_&_Faith_Evans)_Mary_J_Blige.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby Don't Go feat. T- Pain",
+      "artist": "Fabolous",
+      "has_synced": true,
+      "path": "select/10_Baby_Don't_Go_feat._T-_Pain_Fabolous.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Lights)",
+      "artist": "Bring Me The Horizon; LIGHTS",
+      "has_synced": true,
+      "path": "select/11_Don't_Go_(feat._Lights)_Bring_Me_The_Horizon;_LIGHTS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Lights)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/12_Don't_Go_(feat._Lights)_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby, Please Don't Go (Feat. Van Morrison)",
+      "artist": "Them",
+      "has_synced": true,
+      "path": "select/13_Baby,_Please_Don't_Go_(Feat._Van_Morrison)_Them.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Malina Tanase)",
+      "artist": "DJ Layla",
+      "has_synced": true,
+      "path": "select/14_Don't_Go_(feat._Malina_Tanase)_DJ_Layla.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't go (feat. Dizzy Blue)",
+      "artist": "Kozypop feat. Dizzy Blue",
+      "has_synced": true,
+      "path": "select/15_Don't_go_(feat._Dizzy_Blue)_Kozypop_feat._Dizzy_Blue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Becky G and Mr. Eazi)",
+      "artist": "Vice/Becky G/Mr Eazi",
+      "has_synced": true,
+      "path": "select/16_Don't_Go_(feat._Becky_G_and_Mr._Eazi)_Vice_Becky_G_Mr_Eazi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Wretch 32)",
+      "artist": "D-Block Europe",
+      "has_synced": true,
+      "path": "select/17_Don't_Go_(feat._Wretch_32)_D-Block_Europe.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ready, Set, Don't Go (feat. Miley Cyrus)",
+      "artist": "Billy Ray Cyrus",
+      "has_synced": true,
+      "path": "select/18_Ready,_Set,_Don't_Go_(feat._Miley_Cyrus)_Billy_Ray_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Don't Go (feat. Tamar Braxton)",
+      "artist": "Silk feat. Tamar Braxton",
+      "has_synced": true,
+      "path": "select/19_Don't_Go_(feat._Tamar_Braxton)_Silk_feat._Tamar_Braxton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't go (feat. ASH ISLAND)",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_go_(feat._ASH_ISLAND)_ちゃんみな.txt"
+    }
+  ]
+}
